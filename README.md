@@ -1,4 +1,4 @@
-# Project Description using React
+# Description of this mini-project using React
 The following Projects:
 MovieCard
 MovieList
