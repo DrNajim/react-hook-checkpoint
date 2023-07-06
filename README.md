@@ -1,12 +1,10 @@
 # Project Description using React
-Create the following components:
+The following Projects:
 MovieCard
 MovieList
 Filter ( title, rate)
-Every movie should have the following attributes: title, description, posterURL, rating
-The user should be:
-Able to add a new movie.
-Filter the movies with title/rating.
+Every movie  have the following attributes: title, description, posterURL, rating
+The user can add a new movie and Filter the movies with title/rating.
 
 # Getting Started with Create React App
 
